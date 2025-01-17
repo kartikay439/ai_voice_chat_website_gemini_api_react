@@ -1,0 +1,61 @@
+.login {
+    /*background-image: url(white.jpg);*/
+    opacity: .7;
+    background-size: 30%;
+    border-radius: 10px;
+    position: relative;
+    height: 200px;
+    background-color: white;
+    width: 30%;
+    margin-top: 200px;
+    padding: 5px;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    padding: 0;
+ 
+}
+label
+{
+    margin-left: 4%;
+   
+    width: 100%;
+   
+}
+h1{
+    top: 2%;
+    position: absolute;
+    margin-top: 0;
+    text-align: center;
+    font-size: 1em;
+    letter-spacing: 3px;
+}
+input
+{
+    border-radius: 5px;
+    height: 10%;
+    border: none;
+    right: 15%;
+    position: absolute;
+   
+    width: 65%;
+}
+button
+{
+    height: 40px;
+  width: 100px;
+}
+.gemini
+{
+    opacity: 1;
+    border: wheat 2.0000px solid;
+    border-radius: 15px;
+    width: 455px;
+    height: 200px;
+    top:60%;
+    position:fixed;
+   /* height: 100px; */
+}

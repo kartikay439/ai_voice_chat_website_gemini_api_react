@@ -1,0 +1,81 @@
+.nav {
+    /*background-image: url(white.jpg);*/
+    background-size: 10%;
+    z-index: 2;
+    display: flex; 
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    background-color: white; 
+    font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+    /*border-radius: 5px;*/
+    margin: auto;
+    width: 100%;
+    height: 50px;
+}
+.nav div{
+    width: 50%;
+}
+.heading {
+letter-spacing: 3px;
+        font-weight: 600;
+   /* border: 1PX RED SOLID; */
+    font-size: 1.5em;
+    padding-left:20px;
+    /* z-index: 1; */
+    opacity: .9;
+
+    /* width: 50%; */
+    color: rgb(26, 21, 21);
+    /*margin: 100px;*/
+
+}
+.h{
+    height: 30px;
+}
+.a
+    {
+height:35px;
+
+    }
+.l{
+    height: 50px;
+}
+.head{
+    padding-left: 1%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.logo
+{
+    /* width: 20px; */
+    height: 40px;
+    /* width: 20px;
+    height: 100px; */
+    /* background-image: url(t.jpg); */
+}
+.navList
+{
+    padding-right:5% ;
+ display: flex;
+ align-items: center;
+justify-content: flex-end;
+ flex-direction:inherit;
+    /* border: 1PX RED SOLID; */
+    /* text-align: center; */
+    /* width: 50%; */
+
+    right:5%;
+   
+}
+li {
+    
+    font-size: 1em;
+    margin-left:40px;
+    display: inline-block;
+}
+.lis{
+    color: black;
+    text-decoration:none;
+}

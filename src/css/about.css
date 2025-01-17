@@ -1,0 +1,24 @@
+.about 
+{
+    margin: 2px auto;
+    /* background-color: aliceblue; */
+    /* position: absolute; */
+    height: 500px;
+width: 80%;
+padding: 5%;
+}
+.i{
+    margin: 2px auto;
+    width: 100%;
+    height: 500px;
+}
+.g
+{
+    left: 90%;
+    border: wheat solid 2px;
+    border-radius: 20px;
+    top:640px;
+    position: fixed;
+    z-index: 0;
+height:80px ;
+}
